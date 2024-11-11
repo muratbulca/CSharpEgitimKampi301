@@ -1,0 +1,14 @@
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\bin\Debug\net6.0\CSharpEgitimKampi301.EntityLayer.deps.json
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\bin\Debug\net6.0\CSharpEgitimKampi301.EntityLayer.runtimeconfig.json
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\bin\Debug\net6.0\CSharpEgitimKampi301.EntityLayer.dll
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\bin\Debug\net6.0\CSharpEgitimKampi301.EntityLayer.pdb
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\obj\Debug\net6.0\CSharpEgitimKampi301.EntityLayer.csproj.AssemblyReference.cache
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\obj\Debug\net6.0\CSharpEgitimKampi301.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\obj\Debug\net6.0\CSharpEgitimKampi301.EntityLayer.AssemblyInfoInputs.cache
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\obj\Debug\net6.0\CSharpEgitimKampi301.EntityLayer.AssemblyInfo.cs
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\obj\Debug\net6.0\CSharpEgitimKampi301.EntityLayer.csproj.CoreCompileInputs.cache
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\obj\Debug\net6.0\CSharpEgitimKampi301.EntityLayer.dll
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\obj\Debug\net6.0\refint\CSharpEgitimKampi301.EntityLayer.dll
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\obj\Debug\net6.0\CSharpEgitimKampi301.EntityLayer.pdb
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\obj\Debug\net6.0\CSharpEgitimKampi301.EntityLayer.genruntimeconfig.cache
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\obj\Debug\net6.0\ref\CSharpEgitimKampi301.EntityLayer.dll

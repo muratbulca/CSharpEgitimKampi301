@@ -1,0 +1,17 @@
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\net6.0\CSharpEgitimKampi301.DataAccessLayer.deps.json
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\net6.0\CSharpEgitimKampi301.DataAccessLayer.runtimeconfig.json
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\net6.0\CSharpEgitimKampi301.DataAccessLayer.dll
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\net6.0\CSharpEgitimKampi301.DataAccessLayer.pdb
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\net6.0\CSharpEgitimKampi301.EntityLayer.dll
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\net6.0\CSharpEgitimKampi301.EntityLayer.pdb
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\net6.0\CSharpEgitimKampi301.DataAccessLayer.csproj.AssemblyReference.cache
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\net6.0\CSharpEgitimKampi301.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\net6.0\CSharpEgitimKampi301.DataAccessLayer.AssemblyInfoInputs.cache
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\net6.0\CSharpEgitimKampi301.DataAccessLayer.AssemblyInfo.cs
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\net6.0\CSharpEgitimKampi301.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\net6.0\CSharpEgitimKampi301.DataAccessLayer.csproj.CopyComplete
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\net6.0\CSharpEgitimKampi301.DataAccessLayer.dll
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\net6.0\refint\CSharpEgitimKampi301.DataAccessLayer.dll
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\net6.0\CSharpEgitimKampi301.DataAccessLayer.pdb
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\net6.0\CSharpEgitimKampi301.DataAccessLayer.genruntimeconfig.cache
+D:\JAVA\C#EgitimKamp\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\net6.0\ref\CSharpEgitimKampi301.DataAccessLayer.dll
