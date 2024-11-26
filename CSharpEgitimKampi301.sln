@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.33927.210
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEgitimKampi301.BusinessLayer", "CSharpEgitimKampi301.BusinessLayer\CSharpEgitimKampi301.BusinessLayer.csproj", "{7CEA10DC-6A79-4FE4-AD9A-526ADC05A01D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpEgitimKampi301.BusinessLayer", "CSharpEgitimKampi301.BusinessLayer\CSharpEgitimKampi301.BusinessLayer.csproj", "{7CEA10DC-6A79-4FE4-AD9A-526ADC05A01D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEgitimKampi301.DataAccessLayer", "CSharpEgitimKampi301.DataAccessLayer\CSharpEgitimKampi301.DataAccessLayer.csproj", "{2DBE6D03-E732-4B0E-9AE0-7DCED1D12726}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpEgitimKampi301.DataAccessLayer", "CSharpEgitimKampi301.DataAccessLayer\CSharpEgitimKampi301.DataAccessLayer.csproj", "{2DBE6D03-E732-4B0E-9AE0-7DCED1D12726}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEgitimKampi301.EntityLayer", "CSharpEgitimKampi301.EntityLayer\CSharpEgitimKampi301.EntityLayer.csproj", "{6D2670F9-B8FC-4671-9191-BBF1C52E5C2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpEgitimKampi301.EntityLayer", "CSharpEgitimKampi301.EntityLayer\CSharpEgitimKampi301.EntityLayer.csproj", "{6D2670F9-B8FC-4671-9191-BBF1C52E5C2B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEgitimKampi301.PresentationLayer", "CSharpEgitimKampi301.PresentationLayer\CSharpEgitimKampi301.PresentationLayer.csproj", "{6CEB885B-3392-45CA-9C96-4178D31FF820}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEgitimKampi301.EFProject", "CSharpEgitimKampi301.EFProject\CSharpEgitimKampi301.EFProject.csproj", "{32CF86D5-6A5A-4CA2-A563-53698997B7FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{6CEB885B-3392-45CA-9C96-4178D31FF820}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CEB885B-3392-45CA-9C96-4178D31FF820}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CEB885B-3392-45CA-9C96-4178D31FF820}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32CF86D5-6A5A-4CA2-A563-53698997B7FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32CF86D5-6A5A-4CA2-A563-53698997B7FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32CF86D5-6A5A-4CA2-A563-53698997B7FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32CF86D5-6A5A-4CA2-A563-53698997B7FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
